@@ -119,7 +119,7 @@ for(i=1;i<=100;i++){
         console.log(i)
     }
 }
-
+// output: 18 36
 //2Q. 1-10  1  3  5 7 9 print table of only odd numbers from 1-10
 
 // Ans:
@@ -131,3 +131,4 @@ for(i=1;i<=10;i++){
     }
 }
 }
+// output: 1 X 1 = 1...     3 X 1 = 3.....9 X 1 = 9 to 9 X 10 = 90
